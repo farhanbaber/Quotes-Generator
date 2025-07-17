@@ -1,0 +1,49 @@
+# 💬 Quote Generator - Farhan Baber
+
+A clean and elegant || single-page Quote Generator || app featuring animated particle backgrounds using `particles.js`. Click a button and get inspired with random, powerful quotes — all beautifully presented on one page.
+
+---
+
+||  🌟 Features
+
+- 🎯 Random quote generation
+- ✨ Smooth particle background (`particles.js`)
+- 🖥️ Single-page app (SPA)
+- 📱 Fully responsive
+- 🎨 Minimal, clean UI
+
+---
+
+|| 🚀 Getting Started
+
+1. || Clone the Repository ||
+
+```bash
+git clone https://github.com/farhanbaber/quote-generator.git
+cd quote-generator
+# 💬 Quote Generator - Farhan Baber
+
+A clean and elegant **single-page Quote Generator** app featuring animated particle backgrounds using `particles.js`. Click a button and get inspired with random, powerful quotes — all beautifully presented on one page.
+
+![screenshot](screenshot.png)
+
+---
+
+## 🌟 Features
+
+- 🎯 Random quote generation
+- ✨ Smooth particle background (`particles.js`)
+- 🖥️ Single-page app (SPA)
+- 📱 Fully responsive
+- 🎨 Minimal, clean UI
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the Repository**
+
+```bash
+git clone https://github.com/farhanbaber/quote-generator.git
+cd quote-generator
+
